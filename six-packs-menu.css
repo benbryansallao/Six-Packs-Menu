@@ -39,6 +39,13 @@ background:url('images/2.jpg') center no-repeat;
 top:0px;
 left:0px;
 }
+.play> .first-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
+}
 
 .second-child-menu {
 margin-left:60%;
@@ -60,6 +67,13 @@ height:100%;
 background:url('images/1.jpg') center no-repeat;
 top:0px;
 left:0px;
+}
+.play> .second-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
 }
 
 .third-child-menu {
@@ -85,6 +99,14 @@ top:0px;
 left:0px;
 }
 
+.play> .third-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
+}
+
 .logo-menu {
 margin-left:40%;
 top:35%;
@@ -105,6 +127,14 @@ height:100%;
 background:url('images/7.png') center no-repeat;
 top:0px;
 left:0px;
+}
+
+.play> .logo-menu-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
 }
 
 .fourth-child-menu {
@@ -128,6 +158,13 @@ background:url('images/4.jpg') center no-repeat;
 top:0px;
 left:0px;
 }
+.play> .fourth-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
+}
 .fifth-child-menu {
 margin-left:0%;
 top:65%;
@@ -148,6 +185,13 @@ height:100%;
 background:url('images/5.jpg') center no-repeat;
 top:0px;
 left:0px;
+}
+.play> .fifth-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
 }
 
 .sixth-child-menu {
@@ -170,4 +214,11 @@ height:100%;
 background:url('images/6.jpg') center no-repeat;
 top:0px;
 left:0px;
+}
+.play> .sixth-child-transition-overlay {
+ Width:0%;
+ height:100%;
+ background:#302e2e;
+ left:0px;
+ top:0px;
 }
