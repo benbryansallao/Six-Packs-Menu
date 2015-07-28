@@ -3,13 +3,13 @@ background:#302e2e;
 margin:auto;
 padding:0px;
 }
-.parent-container{
+.parent-container{ /* The main conainer */
 width:100%;
 height:100%;
 padding:0px;
 
 }
-.six-packs-menu {
+.six-packs-menu {  /* Six-packs menu container conainer */
  width:100%;
  height:100%;
  position:fixed;
@@ -17,7 +17,7 @@ padding:0px;
  background:
 }
 
-.first-child-menu {
+.first-child-menu { /* The first child menu conainer */
 margin-left:0%;
 top:0%;
 width:60%;
@@ -39,7 +39,7 @@ background:url('images/2.jpg') center no-repeat;
 top:0px;
 left:0px;
 }
-.play .first-child-transition-overlay {
+.play .first-child-transition-overlay { 
  Width:0%;
  height:100%;
  background:#302e2e;
